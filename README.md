@@ -34,6 +34,8 @@ While this font is produced entirely by one Python
 you to look at. The included `mx70.json` is likely more useful: it
 contains all of the pin definitions keyed by character name.
 
+(This is a mirror of [New font: nic7pin – We Saw a Chicken …](https://scruss.com/blog/2026/06/10/new-font-nic7pin/).)
+
 ## Licence
 
 © 2026 - Stewart Russell, scruss.com
